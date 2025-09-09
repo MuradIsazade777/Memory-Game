@@ -40,7 +40,7 @@ Installation / Running Locally
 
 Clone the repository:
 
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/MuradIsazade777/Memory-Game.git
 
 
 Navigate to the project folder:
