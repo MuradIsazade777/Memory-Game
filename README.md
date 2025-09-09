@@ -28,14 +28,6 @@ Continue until all cards are matched.
 
 Check your time and moves to see your score!
 
-Demo
-
-You can play the game live on GitHub Pages:
-
-🔗 Play Memory Game
-
-(Replace your-username with your actual GitHub username)
-
 Installation / Running Locally
 
 Clone the repository:
