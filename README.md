@@ -48,4 +48,4 @@ HTML5
 
 CSS3 (Grid layout, transitions, animations)
 
-JavaScript (DOM manipulation, timers, event listeners)
+JavaScript (DOM manipulation, timers, event listeners).
